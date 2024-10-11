@@ -6,7 +6,7 @@ A simple and intuitive calculator app built with Flutter. This app allows users 
 
 ![image](https://github.com/user-attachments/assets/f1045dff-c548-442c-a67b-1b7ba0609a3f)
 
-# Demo [Tap here]!(https://calculator-app-flutter.netlify.app/)
+# Demo [Tap here!](https://calculator-app-flutter.netlify.app/)
 
 When using a browser’s Inspect tool to view a website in Phone mode (mobile view), follow these steps:
 
